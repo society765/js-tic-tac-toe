@@ -1,0 +1,23 @@
+:root{
+    --t-grid-width: 200px; 
+    --t-grid-height: 200px; 
+}
+
+#div-main{
+    width: 100vw; 
+    height: 100vh;
+}
+
+.t-grid{ 
+    padding-top: calc(16.67% - 23.35pt); 
+    padding-bottom: calc(16.67% - 23.35pt); 
+    border: 1px solid black; 
+
+    font-family: 'Rock Salt', cursive;
+    font-size: 30pt; 
+    white-space: pre; 
+}
+
+#ttt-main-container{ 
+    max-width: 540px; 
+}
